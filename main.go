@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	myNumber := 8
+	myNumber := 12
 
 	fmt.Println(myNumber)
 }
