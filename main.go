@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("main changes")
 
 	fmt.Println(myNumber)
+
+	fmt.Println("more feature")
 }
